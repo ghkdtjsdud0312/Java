@@ -1,0 +1,12 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓŸ¿øÿÿÿÿ8·ƒ—2
+T
+java:S1854"7Remove this useless assignment to local variable "MAX".(ö¾Ã8¢·ƒ—2
+V
+java:S1854"9Remove this useless assignment to local variable "score".(ƒÓá8¢·ƒ—2
+G	java:S106
+"+Replace this use of System.out by a logger.(ÖÊÊä8£·ƒ—2
+E
+java:S1481"(Remove this unused "MAX" local variable.(ö¾Ã8£·ƒ—2
+G	java:S106"+Replace this use of System.out by a logger.(ÖÊÊä8šö‘ƒ—2
+]	java:S125"<This block of commented-out lines of code should be removed.(óùñ×ÿÿÿÿÿ8çöƒ—2

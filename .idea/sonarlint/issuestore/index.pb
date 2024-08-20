@@ -11,3 +11,5 @@ I
 src/Chapter02/VarEx1.java,1/0/10e988f8c0b418be4acc86acc83e67c38af5b289
 I
 src/Chapter02/Ex2_01.java,c/0/c0dfb01342f78a7b74f662348f4fd51505555927
+I
+src/Chapter02/VarEx2.java,0/a/0a18d7f9148e1faafd61e6ee237317d9644053cc

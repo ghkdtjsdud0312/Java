@@ -125,3 +125,25 @@ int year = 0, age = 14;
                                                       - 실수 ( double, float )
 
                 - 논리 ( boolean ) 
+
+## 상수와 리터럴 
+변수, 상수, 리터럴
+- 변수(variable) : 하나의 값을 저장하기 위한 공간 (변경 가능)
+
+      int score = 100;
+
+      int score = 200;
+
+- 상수(constant) : 한 번만 값을 저장 가능한 변수 (변경 불가능)
+
+      final int MAX = 100; -> MAX는 상수
+
+                    MAX = 200; -> 에러
+
+- 리터럴(literal) : 그 자체로 값을 의미하는 것 (= 기존의 상수)
+
+      char ch = 'A';
+
+      String str = "abc";
+
+
