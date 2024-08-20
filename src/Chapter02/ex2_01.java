@@ -1,7 +1,7 @@
 package src.Chapter02;
 
 // 화면에 글자 출력하기, 덧셈 뺄셈 곱셈 나눗셈 계산하기
-public class ex2_01 {
+public class Ex2_01 {
 
     public static void main(String[] args) {
         // println() => 줄바꿈해서 나옴
