@@ -146,4 +146,67 @@ int year = 0, age = 14;
 
       String str = "abc";
 
+### 리터럴의 접두사와 접미사 -> 대소문자 구분 안함
+종류	리터럴	접미사(대소문자 구분 안함)
+논리형	false, true	없음
+정수형	123, 0b0101(0b는 2진 접두사 의미),
+077, 0xFF, 100L	L(long)
+상수형	3.14, 3.0e8, 1.4f, 0x1.0p-1	f(float), d(double)
+문자형	'A', '1', '\n'	없음
+문자열	"ABC", "123", "A", "true"	없음
 
+
+boolean power = true; (논리형)
+
+char ch = 'A'; (문자형)
+
+String str = "ABC"; (문자열)
+
+byte b = 127;
+
+byte b = 128; (에러)
+
+int i = 100; (10진수)
+
+int oct = 0100; (8진수)
+
+int hex = 0x100; (16진수)
+
+long l = 10_000_000_000L; (생략 불가)
+
+long l = 100; (생략 가능)
+
+float f = 3.14f; (생략 불가)
+
+double d = 3.14d; (생략 불가)
+
+
+
+### 변수와 리터럴의 타입 불일치
+1. 범위가 '변수(그릇) > 리터럴(물건)' 인 경우는 OK!
+
+   int i = 'A';      -> int > char
+
+   long l = 123;   -> long > int
+
+   double d = 3.14f;   -> double > float
+
+
+
+2. 범위가 '변수 < 리터럴' 인 경우는 에러
+
+   int i = 30_0000_0000;  -> int의 범위(+- 20억) 벗어남
+
+   long l = 3.14f;  -> long < float
+
+   float f = 3.14;  -> float < double
+
+
+
+3. byte, short 변수에 int 리터럴 저장가능
+
+   byte b = 100;   -> OK / byte의 범위(-123 ~ 127)에 속함
+
+   byte b = 128;    -> 에러 /  byte의 범위를 벗어남
+
+ 
