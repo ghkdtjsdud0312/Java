@@ -1,31 +1,38 @@
 
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓŸ¿øÿÿÿÿ8âß¦—2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓŸ¿øÿÿÿÿ8ø·õ˜2
 R
-java:S1854"5Remove this useless assignment to local variable "d".(ë•õŠ8çß¦—2
+java:S1854"5Remove this useless assignment to local variable "d".(‚í¾ß8ü·õ˜2
 W
-java:S1854"5Remove this useless assignment to local variable "f".(Ÿı¥÷ûÿÿÿÿ8çß¦—2
+java:S1854"5Remove this useless assignment to local variable "f".(Ÿı¥÷ûÿÿÿÿ8ü·õ˜2
 W
-java:S1854"5Remove this useless assignment to local variable "l".(îà£¨øÿÿÿÿ8çß¦—2
+java:S1854"5Remove this useless assignment to local variable "l".(îà£¨øÿÿÿÿ8ü·õ˜2
 R
-java:S1854"5Remove this useless assignment to local variable "b".(„Í½ü8çß¦—2
+java:S1854"5Remove this useless assignment to local variable "b".(„Í½ü8ü·õ˜2
 V
-java:S1854"9Remove this useless assignment to local variable "score".(Ô½¾ö8çß¦—2
+java:S1854"9Remove this useless assignment to local variable "score".(Ô½¾ö8ü·õ˜2
 G
-java:S1481"*Remove this unused "score" local variable.(Ô½¾ö8èß¦—2
-X	java:S125"<This block of commented-out lines of code should be removed.(í¢8èß¦—2
-L	java:S106	"+Replace this use of System.out by a logger.(Ìğ¡»ùÿÿÿÿ8éß¦—2
-]	java:S125"<This block of commented-out lines of code should be removed.(ÏŒ“Ìûÿÿÿÿ8éß¦—2
+java:S1481"*Remove this unused "score" local variable.(Ô½¾ö8ü·õ˜2
+X	java:S125"<This block of commented-out lines of code should be removed.(í¢8ü·õ˜2
+L	java:S106
+"+Replace this use of System.out by a logger.(Ìğ¡»ùÿÿÿÿ8ı·õ˜2
+]	java:S125	"<This block of commented-out lines of code should be removed.(ÏŒ“Ìûÿÿÿÿ8ı·õ˜2
 C
-java:S1481"&Remove this unused "b" local variable.(„Í½ü8éß¦—2
-L	java:S106"+Replace this use of System.out by a logger.(Ë†ªÇúÿÿÿÿ8êß¦—2
-G	java:S106"+Replace this use of System.out by a logger.(Æ·Åİ8êß¦—2
+java:S1481"&Remove this unused "b" local variable.(„Í½ü8ı·õ˜2
+L	java:S106"+Replace this use of System.out by a logger.(Ë†ªÇúÿÿÿÿ8ı·õ˜2
+G	java:S106"+Replace this use of System.out by a logger.(Æ·Åİ8ı·õ˜2
 H
-java:S1481"&Remove this unused "l" local variable.(îà£¨øÿÿÿÿ8êß¦—2
+java:S1481"&Remove this unused "l" local variable.(îà£¨øÿÿÿÿ8ı·õ˜2
 H
-java:S1481"&Remove this unused "f" local variable.(Ÿı¥÷ûÿÿÿÿ8êß¦—2
+java:S1481"&Remove this unused "f" local variable.(Ÿı¥÷ûÿÿÿÿ8ı·õ˜2
 C
-java:S1481"&Remove this unused "d" local variable.(ë•õŠ8êß¦—2
-L	java:S106"+Replace this use of System.out by a logger.(ã®ßÓüÿÿÿÿ8êß¦—2
-G	java:S106"+Replace this use of System.out by a logger.(ÎĞ«ä8êß¦—2
-L	java:S106"+Replace this use of System.out by a logger.(Ùçóñÿÿÿÿÿ8×Â§—2
-G	java:S106"+Replace this use of System.out by a logger.(Ôåë8×Â§—2
+java:S1481"&Remove this unused "d" local variable.(‚í¾ß8ı·õ˜2
+L	java:S106"+Replace this use of System.out by a logger.(ã®ßÓüÿÿÿÿ8ı·õ˜2
+G	java:S106"+Replace this use of System.out by a logger.(ÎĞ«ä8ş·õ˜2
+L	java:S106"+Replace this use of System.out by a logger.(Ùçóñÿÿÿÿÿ8ş·õ˜2
+G	java:S106"+Replace this use of System.out by a logger.(Ôåë8ş·õ˜2
+G	java:S106"+Replace this use of System.out by a logger.(ºùÆÉ8ÿ·õ˜2
+L	java:S106"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8ÿ·õ˜2
+F	java:S106%"+Replace this use of System.out by a logger.(ƒÚáB8ÿ·õ˜2
+F	java:S106&"+Replace this use of System.out by a logger.(âùÏ=8ÿ·õ˜2
+G	java:S106'"+Replace this use of System.out by a logger.(ÎàŸ»8á¸õ˜2
+L	java:S106("+Replace this use of System.out by a logger.(è¨öôúÿÿÿÿ8â¸õ˜2
