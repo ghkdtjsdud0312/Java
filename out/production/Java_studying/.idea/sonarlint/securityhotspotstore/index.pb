@@ -13,3 +13,5 @@ I
 src/Chapter02/VarEx3.java,b/d/bdd545f3fa17d59baeb23bdd3b523c6018cc804b
 I
 src/Chapter02/VarEx4.java,a/4/a45aee4c4fcea63f28f2e549964d746cf077d017
+L
+src/Chapter02/PrintfEx1.java,e/f/ef19503827861c7f0e4856ffbc2f28aa247186f1
